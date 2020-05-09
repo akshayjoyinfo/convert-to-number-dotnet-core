@@ -1,3 +1,3 @@
 # convert-to-number-dotnet-core
 
-https://travis-ci.com/akshayjoyinfo/convert-to-number-dotnet-core.svg?branch=master
+[![Build Status](https://travis-ci.com/akshayjoyinfo/convert-to-number-dotnet-core.svg?branch=master)](https://travis-ci.com/akshayjoyinfo/convert-to-number-dotnet-core)
